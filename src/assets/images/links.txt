@@ -1,0 +1,11 @@
+---
+date: '2020-07-20'
+title: 'Hotlinks'
+summary: 'Hotlinks reference page'
+---
+
+These are the places where the files from this folder are hotlinked except the ones linked to the index.md file in this folder. These are referenced here in case one needs to move or rename one of the files in here.
+
+actionbar.gif -> /gatsbynetlify/src/pages/index.js
+damage.gif -> /gatsbynetlify/src/pages/index.js
+status.gif -> /gatsbynetlify/src/pages/index.js
